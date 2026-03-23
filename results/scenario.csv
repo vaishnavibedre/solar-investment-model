@@ -1,0 +1,4 @@
+Tariff Scenario,Tariff,NPV_INR_million,IRR_percent
+Low Tariff,3.0,195.8,11.47
+Base Case,3.5,559.9,14.11
+High Tariff,4.0,923.9,16.65
