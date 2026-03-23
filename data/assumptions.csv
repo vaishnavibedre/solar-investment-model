@@ -1,0 +1,13 @@
+Parameter,Value,Unit
+Capacity_MW,50,MW
+CAPEX_per_MW,35000000,INR_per_MW
+OPEX_percent,0.015,decimal
+Tariff_base,3.5,INR_per_kWh
+Tariff_low,3,INR_per_kWh
+Tariff_high,4,INR_per_kWh
+Capacity_factor,0.19,decimal
+Degradation,0.005,decimal
+Project_life_years,25,years
+Discount_rate_decimal,0.1,decimal
+Emission_factor,0.9,tCO2_per_MWh
+Hours_per_year,8760,hours
