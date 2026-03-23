@@ -38,10 +38,6 @@ Power BI dashboard includes:
 • Tariff scenario analysis  
 • IRR sensitivity drivers  
 
-## Dashboard Preview
-
-![Dashboard](dashboard_preview.pdf)
-
 ## Key Insights
 
 • Project generates positive NPV and IRR above hurdle rate  
